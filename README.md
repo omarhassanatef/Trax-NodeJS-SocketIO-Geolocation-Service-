@@ -1,5 +1,5 @@
 # Trax-NodeJS SocketIO Geolocation Service 
-very simple nodejs app 
+very simple nodejs app , clone locally or can be found deployed at https://thetrax.herokuapp.com 
 step 1 : install dependencies using " npm i "
 step 2 : run app using " node index " command
 step 3 : go to localhost:5000 to view map and emit button 
